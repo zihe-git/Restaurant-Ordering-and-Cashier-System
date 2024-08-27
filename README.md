@@ -5,7 +5,7 @@ Before running this application, ensure you havw the following installed:
 * Maven 3 
 * MySQL <br><br>Steps to Install:
 1. Clone the Repository: Clone this repository to your local machine using the following command:
-```git clone https://github.com/your-username/my-java-webapp.git```
+```git clone https://github.com/zihe-git/Restaurant-Ordering-and-Cashier-System.git```
 2. Navigate to the Project Directory:```cd my-java-webapp```
 3. Install Dependencies and Build the Project: Use Maven to install all necessary dependencies and build the project:```mvn install```
 4. Configure the Database
@@ -20,7 +20,7 @@ Once the application is running, open your web browser and navigate to:```http:/
 * Maven 3 
 * MySQL <br><br>安装步骤:
 1. 克隆仓库： 将此仓库克隆到本地计算机，使用以下命令：
-```git clone https://github.com/your-username/my-java-webapp.git```
+```git clone https://github.com/zihe-git/Restaurant-Ordering-and-Cashier-System.git```
 2. 进入项目目录：```cd my-java-webapp```
 3. 安装依赖并构建项目： 使用 Maven 安装所有必要的依赖并构建项目：```mvn install```
 4. 配置数据库
